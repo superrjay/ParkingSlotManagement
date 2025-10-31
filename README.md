@@ -51,7 +51,7 @@ It offers real-time tracking of slot availability, guest details, and vehicle in
 
 ---
 
-<h3 align="center">🖼️ Screenshots</h3> <p align="center"> <img src="./img/screenshot1.png" width="75%"/> <br/> <em>Dashboard – Overview of slot availability</em> <br/><br/> <em>Guest management and vehicle tracking</em> </p>
+<h3 align="center">🖼️ Screenshots</h3> <p align="center"> <img src="./img/screenshot1.png" width="75%"/> <br/> <em>Login Page – Overview of login system</em> <br/>
 
 ---
 
