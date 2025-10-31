@@ -49,19 +49,23 @@ It offers real-time tracking of slot availability, guest details, and vehicle in
   </a>
 </p>
 
+---
+
 <h3 align="center">🖼️ Screenshots</h3> <p align="center"> <img src="./img/screenshot1.png" width="75%"/> <br/> <em>Dashboard – Overview of slot availability</em> <br/><br/> <em>Guest management and vehicle tracking</em> </p>
 
 ---
 
 <h3 align="center">📈 Future Improvements</h3>
 
-💳 Online payment gateway integration
-📱 Fully responsive mobile dashboard
-📢 Email/SMS notifications for bookings
-📊 Enhanced analytics with charts
+- 💳 Online payment gateway integration
+- 📱 Fully responsive mobile dashboard
+- 📢 Email/SMS notifications for bookings
+- 📊 Enhanced analytics with charts
 
 ---
 
 <h3 align="center">👨‍💻 Author</h3> <p align="center"> <b>Section Project</b><br> 🎓 School Project — Parking Slot Management System<br> <a href="https://github.com/superrjay" target="_blank">🌐 GitHub Profile</a> </p>
+
+---
 
 <h4 align="center">🪪 License</h4> <p align="center"> This project is for educational and personal use only.<br> Feel free to explore, learn, and enhance it. </p>
